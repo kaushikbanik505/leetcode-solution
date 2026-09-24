@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kaushikbanik505/leetcode-solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kaushikbanik505/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/kaushikbanik505/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kaushikbanik505/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/kaushikbanik505/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
