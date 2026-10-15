@@ -90,4 +90,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kaushikbanik505/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kaushikbanik505/leetcode-solution/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kaushikbanik505/leetcode-solution/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kaushikbanik505/leetcode-solution/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kaushikbanik505/leetcode-solution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
