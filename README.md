@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kaushikbanik505/leetcode-solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaushikbanik505/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/kaushikbanik505/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0090-subsets-ii](https://github.com/kaushikbanik505/leetcode-solution/tree/master/0090-subsets-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/kaushikbanik505/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/kaushikbanik505/leetcode-solution/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kaushikbanik505/leetcode-solution/tree/master/0100-same-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/kaushikbanik505/leetcode-solution/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/kaushikbanik505/leetcode-solution/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
